@@ -1,0 +1,16 @@
+{
+    "name": "angular-ts-es6",
+    "description": "Build-as-you-save for your TypeScript+ES6+AngularJS workflow",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/awerlang/angular-ts-es6.git"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "chokidar": "^1.0.1",
+        "typescript": "^1.4.1",
+        "6to5": "^3.6.5",
+        "ng-annotate": "^0.15.4"
+    }
+}
